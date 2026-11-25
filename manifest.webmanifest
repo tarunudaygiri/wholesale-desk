@@ -2,7 +2,7 @@
   "name": "Wholesale Desk",
   "short_name": "Wholesale",
   "description": "Mobile-first wholesale business manager",
-  "start_url": "./",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f7f8fa",
   "theme_color": "#f7f8fa",
