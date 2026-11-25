@@ -1,0 +1,10 @@
+{
+  "name": "Wholesale Desk",
+  "short_name": "Wholesale",
+  "description": "Mobile-first wholesale business manager",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f8fa",
+  "theme_color": "#f7f8fa",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
